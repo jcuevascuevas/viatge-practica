@@ -9,7 +9,7 @@
 | Google Drive | Guardar i compartir arxius al núvol | Qualsevol persona o equip |
 | Google Tasks | Gestionar llistes de tasques amb dates límit | Persones que s'organitzen el dia a dia |
 
-# Diferència entre IMAP i POP3
+## Diferència entre IMAP i POP3
 
 POP3 descarrega els missatges al teu ordinador i normalment els esborra del servidor, de manera que només els pots llegir des d'aquell aparell.
 IMAP, en canvi, deixa els missatges al servidor i els mostra des de qualsevol dispositiu connectat.
