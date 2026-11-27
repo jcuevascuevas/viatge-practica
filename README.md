@@ -238,12 +238,59 @@ Permís: **Consulta tots els detalls de l'esdeveniment**.
 <img width="1366" height="768" alt="Captura de pantalla 2026-11-26 224842" src="https://github.com/user-attachments/assets/2d545f28-dd17-4d8d-9ae3-8e542075f2bc" />
 
 
+---
+
+## Fase 4: permisos i proves
+
+### 1. Permisos del full i del calendari
+
+Revisat qui té accés a cada recurs i eliminats els permisos que no calen.
+
+| Recurs | Persones amb accés | Permís |
+|---|---|---|
+| Full de càlcul (pressupost) | Jo (propietari) | Propietari |
+| Full de càlcul (pressupost) | Professorat | Lector |
+| Calendari del viatge | Jo (propietari) | Propietari |
+| Calendari del viatge | Un company | Consulta tots els detalls |
+
+L'accés general del full està en **Restringit** i el calendari **no** és públic.
 
 
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 14-14-37" src="https://github.com/user-attachments/assets/a321b323-8d35-4a75-84cc-cb3262e85e47" />
 
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 14-15-41" src="https://github.com/user-attachments/assets/a29508d4-2b21-4bb2-a2af-f332a2337854" />
 
 
+La verificació en dues passes està **activada** al meu compte.
 
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 14-16-07" src="https://github.com/user-attachments/assets/6ff65444-0055-4624-9113-a260661442dd" />
+
+
+### 3. Llista de proves del calendari
+
+| # | Prova | Resultat esperat | Resultat obtingut | OK |
+|---|---|---|---|---|
+| 1 | El calendari té un esdeveniment per dia | 7 esdeveniments (15–21 de març) | 7 esdeveniments | ✔ |
+| 2 | Cada esdeveniment té lloc i activitats | Lloc i descripció omplerts | Omplerts | ✔ |
+| 3 | Esdeveniment repetit | Es repeteix cada dilluns | Es repeteix | ✔ |
+| 4 | La repetició té final | Acaba el 8 de març de 2027 | Acaba en la data | ✔ |
+| 5 | Convidat que respon | El company accepta i es veu la resposta | Acceptat | ✔ |
+| 6 | Recordatori | Notificació 1 dia abans | Configurat | ✔ |
+| 7 | Llista de tasques | Tasques amb reserves i dates límit | 7 tasques amb data | ✔ |
+| 8 | Permisos del full | Només el professorat, en mode Lector | Correcte | ✔ |
+| 9 | Permisos del calendari | El company veu tots els detalls | Correcte | ✔ |
+| 10 | Ruta a Maps | 7 dies i torna al punt de sortida | Torna a Barcelona | ✔ |
+| 11 | Pressupost amb IF | Total ≤ 1.500 € i la cel·la ho diu | 1.305 €, «Dins del pressupost» | ✔ |
+| 12 | Verificació en dues passes | Activada | Activada | ✔ |
+
+
+## Resposta a la pregunta del README
+
+**Quina diferència hi ha entre compartir el full amb «qualsevol que tingui l'enllaç» i amb persones concretes, i quina he triat i per què?**
+
+Amb «qualsevol que tingui l'enllaç», qualsevol persona que rebi o trobi l'enllaç pot obrir el full sense identificar-se, i l'enllaç es pot reenviar. Amb persones concretes, només hi accedeixen els comptes que he afegit, i han d'iniciar sessió.
+
+He triat **persones concretes** (el professorat, en mode Lector) per al full de càlcul perquè conté el pressupost, que és informació personal, i només ha de veure'l qui l'ha d'avaluar. Per al mapa de la ruta he triat «qualsevol que tingui l'enllaç», perquè no conté dades personals.
