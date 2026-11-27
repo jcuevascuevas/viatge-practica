@@ -14,14 +14,14 @@ Jaden Cuevas Medina
 ### 1. Sis eines de Google
 
 
-| Eina | Propòsit | Target |
+| Eina | Propòsit | Target (públic) |
 |---|---|---|
-| Gmail | Enviar i rebre correu electrònic | Qualsevol persona o empresa |
-| Google Calendar | Organitzar esdeveniments i recordatoris | Estudiants, equips de treball |
-| Google Maps | Planificar rutes i buscar llocs | Viatgers, conductors |
-| Google Sheets | Fer càlculs i fulls de dades  | Estudiants, oficines, empreses |
-| Google Drive | Guardar i compartir arxius al núvol | Qualsevol persona o equip |
-| Google Tasks | Gestionar llistes de tasques amb dates límit | Persones que s'organitzen el dia a dia |
+| Gmail | Enviar, rebre i organitzar correu electrònic | Qualsevol usuari, estudiants i professionals |
+| Google Calendar | Gestionar agenda, esdeveniments i recordatoris | Estudiants, professionals i equips |
+| Google Maps | Cercar llocs i dibuixar rutes | Viatgers i conductors |
+| Google Sheets | Fulls de càlcul amb fórmules i pressupostos | Estudiants, administratius i empreses |
+| Google Drive | Guardar i compartir fitxers al núvol | Qualsevol usuari i equips |
+| Google Docs | Documents de text col·laboratius | Estudiants, professionals i equips |
 
 ## Diferència entre IMAP i POP3
 
