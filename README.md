@@ -138,5 +138,49 @@ El DMARC dona **FAIL** perquè la signatura DKIM usa el domini genèric de Googl
 <img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 09-41-32" src="https://github.com/user-attachments/assets/9f7e6802-4d8f-4a40-a675-4f05a3ce7265" />
 
 
+---
+
+## Fase 3: el viatge
+
+### 1. Ruta a Google Maps
+
+Ruta de 7 dies: Barcelona → Santo Domingo → Bayahíbe → Punta Cana → Barcelona.
+
+| Dia | Parada | Transport |
+|---|---|---|
+| 1 | Barcelona → Santo Domingo | Avió |
+| 2 | Santo Domingo | A peu |
+| 3 | Santo Domingo → Bayahíbe | Guagua |
+| 4 | Bayahíbe (Illa Saona) | Barca |
+| 5 | Bayahíbe → Punta Cana | Autobús |
+| 6 | Punta Cana | A peu / taxi |
+| 7 | Punta Cana → Barcelona | Avió |
+
+Enllaç al mapa:https: //www.google.com/maps/d/edit?mid=1ts3PSSrds0m0aTCbdJV1EVxzeb93EMk&usp=sharing
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 224921" src="https://github.com/user-attachments/assets/f3488bdd-b4ef-4b42-b193-71828fa20ebc" />
+
+
+### 2. Pressupost al full de càlcul
+
+Enllaç al full: https://docs.google.com/spreadsheets/d/1GeO7hbcIWQsF_0O3ACywYzaBpknP1-D2dTtkarr8Oe8/edit?usp=sharing
+
+
+| Concepte | Import |
+|---|---|
+| Transport | 860 € |
+| Allotjament | 270 € |
+| Menjar | 175 € |
+| **Total** | **1.305 €** |
+
+
+La cel·la de resultat usa la funció `IF`:
+
+```
+=IF(B5<=B6; "Dins del pressupost"; "T'has passat")
+```
+
+`IF` té tres parts: una condició, què passa si és certa i què passa si no ho és. Aquí compara el total (B5) amb el límit de 1.500 € (B6) i mostra si el pressupost s'ha respectat.
 
 
