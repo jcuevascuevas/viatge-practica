@@ -267,7 +267,8 @@ L'accés general del full està en **Restringit** i el calendari **no** és púb
 La verificació en dues passes està **activada** al meu compte.
 
 
-<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 14-16-07" src="https://github.com/user-attachments/assets/6ff65444-0055-4624-9113-a260661442dd" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-27 195351" src="https://github.com/user-attachments/assets/2e0d9d26-75cf-44b8-b6eb-c0d1f7a0c3f3" />
+
 
 
 ### 3. Llista de proves del calendari
