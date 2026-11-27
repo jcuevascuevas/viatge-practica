@@ -1,5 +1,14 @@
 # Viatge-Pràctica
 
+
+# Pràctica P5.1: organitza un viatge amb Google
+
+*Alumne:** Jaden Cuevas Medina
+**Mòdul:** 0228 · Aplicacions web · RA5
+**Viatge:** República Dominicana, 7 dies (15–21 de març de 2027), pressupost màxim 1.500 €
+
+
+
 | Eina | Propòsit | Target |
 |---|---|---|
 | Gmail | Enviar i rebre correu electrònic | Qualsevol persona o empresa |
