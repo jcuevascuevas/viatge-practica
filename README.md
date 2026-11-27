@@ -38,7 +38,15 @@ POP3 només té avantatge si vols llegir el correu sense connexió o tens un sol
 <img width="1366" height="768" alt="Captura de pantalla 2026-11-26 191942(1)" src="https://github.com/user-attachments/assets/31157b52-f95e-457f-be9d-001113c65f2c" />
 
 
+### 4. Filtres
 
+| Filtre | Criteri | Acció |
+|---|---|---|
+| 1 | `puig` | Aplica l'etiqueta «institut» |
+| 2 | `publicitat` | Aplica l'etiqueta «promocions» i omet la safata d'entrada |
+| 3 | Professor 1 | Marca'l com a important |
+| 4 | Professor 2 | Marca'l com a important |
+| 5 | Altres (`examen`, `moodle`) | Aplica l'etiqueta «institut» |
 
 
 
