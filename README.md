@@ -184,3 +184,66 @@ La cel·la de resultat usa la funció `IF`:
 `IF` té tres parts: una condició, què passa si és certa i què passa si no ho és. Aquí compara el total (B5) amb el límit de 1.500 € (B6) i mostra si el pressupost s'ha respectat.
 
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 14-03-45" src="https://github.com/user-attachments/assets/55dba861-b8ad-417a-8294-1230c8fee7fe" />
+
+
+### 3. Full compartit amb el professorat (només veure)
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 221548" src="https://github.com/user-attachments/assets/80ec9372-dcfa-4593-ba0e-3ee4d165a968" />
+
+
+### 4. Calendari del viatge
+
+Calendari `CALENDARI_JADEN_CUEVAS`, del 15 al 21 de març de 2027, amb un esdeveniment per dia, amb lloc i activitats.
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 223538" src="https://github.com/user-attachments/assets/7d0409b9-d063-4b7b-965a-1f0eaf3946ca" />
+
+
+### 5. Prestacions del calendari
+
+- **Esdeveniment repetit amb final:** «Revisar reserves del viatge», cada dilluns fins al 8 de març de 2027.
+- **Recordatori:** notificació 1 dia abans.
+- **Convidat que respon:** el company accepta la invitació.
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 223836(1)" src="https://github.com/user-attachments/assets/ceeef9f7-fd7a-4536-956f-a8ee5e6b9605" />
+
+
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 09-39-53" src="https://github.com/user-attachments/assets/cd00374d-9781-4cf9-9f69-9de4a7d267a2" />
+
+
+### 6. Llista de tasques
+
+| Tasca | Data límit |
+|---|---|
+| Reservar vol Barcelona → Santo Domingo | 15/12/2026 |
+| Reservar vol Punta Cana → Barcelona | 15/12/2026 |
+| Reservar alberg a Santo Domingo | 15/01/2027 |
+| Reservar allotjament a Bayahíbe | 15/01/2027 |
+| Reservar allotjament a Punta Cana | 15/01/2027 |
+| Reservar excursió a Illa Saona | 15/02/2027 |
+| Contractar assegurança de viatge | 15/02/2027 |
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 224429" src="https://github.com/user-attachments/assets/7b0adda0-3ea2-431c-8e6b-1791334424cd" />
+
+
+### 7. Calendari compartit amb un company
+
+Permís: **Consulta tots els detalls de l'esdeveniment**.
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 224842" src="https://github.com/user-attachments/assets/2d545f28-dd17-4d8d-9ae3-8e542075f2bc" />
+
+
+
+
+
+
+
+
+
+
+
