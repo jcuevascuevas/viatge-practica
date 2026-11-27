@@ -72,6 +72,7 @@ L'accés IMAP està **activat**.
 
 <img width="1366" height="768" alt="Captura de pantalla 2026-11-26 202110" src="https://github.com/user-attachments/assets/dd6a3f5b-84af-4a57-a58d-6fffef0e4ec8" />
 
+
 | Servei | Servidor | Port | Seguretat | Usuari |
 |---|---|---|---|---|
 | IMAP (entrada) | imap.gmail.com | 993 | SSL/TLS | adreça de correu completa |
@@ -83,6 +84,7 @@ L'accés IMAP està **activat**.
 
 Amb dues sessions obertes, el company envia un correu amb la paraula «puig» i arriba amb l'etiqueta verda «institut».
 
+
 <img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 09-35-01" src="https://github.com/user-attachments/assets/25fe4ab0-2ba4-4f1e-8160-18cb023ed112" />
 
 
@@ -91,12 +93,14 @@ Amb dues sessions obertes, el company envia un correu amb la paraula «puig» i 
 
 He respost al missatge i la resposta torna al company.
 
+
 <img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 09-36-21" src="https://github.com/user-attachments/assets/eb11d270-dfbd-4fcb-9330-7f0bca8a132d" />
 
 
 ### 4. SPF, DKIM i DMARC
 
 <img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 09-46-06" src="https://github.com/user-attachments/assets/6200bb48-84f4-4869-9313-86b925f31682" />
+
 
 | Capçalera | Què comprova | Resultat |
 |---|---|---|
@@ -126,9 +130,12 @@ El DMARC dona **FAIL** perquè la signatura DKIM usa el domini genèric de Googl
 
 
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 13-51-29" src="https://github.com/user-attachments/assets/ba4b5d30-6c29-42d7-8632-ddfa7885f960" />
+
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 13-52-25" src="https://github.com/user-attachments/assets/cc6de8a6-4e39-49af-a318-63ad6c929bf7" />
 
 
-
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 09-41-32" src="https://github.com/user-attachments/assets/9f7e6802-4d8f-4a40-a675-4f05a3ce7265" />
 
 
 
