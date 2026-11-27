@@ -51,5 +51,38 @@ POP3 només té avantatge si vols llegir el correu sense connexió o tens un sol
 <img width="1366" height="768" alt="Captura de pantalla 2026-11-26 200358" src="https://github.com/user-attachments/assets/9a26cfb0-35c0-40ee-bcc3-89e9b9b52f97" />
 
 
+### 5. Resposta automàtica de vacances
+
+Missatge configurat: **«Estic de vacances!»**
+
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 200923" src="https://github.com/user-attachments/assets/6e435942-19b7-4da3-952c-dc2c04a762ae" />
+
+
+---
+
+## Fase 2: comprovar l'accés
+
+### 1. Accés IMAP i paràmetres de cada servei
+
+L'accés IMAP està **activat**.
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 202110" src="https://github.com/user-attachments/assets/dd6a3f5b-84af-4a57-a58d-6fffef0e4ec8" />
+
+| Servei | Servidor | Port | Seguretat | Usuari |
+|---|---|---|---|---|
+| IMAP (entrada) | imap.gmail.com | 993 | SSL/TLS | adreça de correu completa |
+| POP3 (entrada) | pop.gmail.com | 995 | SSL/TLS | adreça de correu completa |
+| SMTP (sortida) | smtp.gmail.com | 465 (SSL) o 587 (STARTTLS) | SSL/TLS o STARTTLS |
+
+
+### 2. Missatge entre dos comptes
+
+Amb dues sessions obertes, el company envia un correu amb la paraula «puig» i arriba amb l'etiqueta verda «institut».
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 193338" src="https://github.com/user-attachments/assets/65dc8a0c-e740-4f54-a20f-73f36f206d1d" />
+
+
+
 
 
