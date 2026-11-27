@@ -48,7 +48,7 @@ POP3 només té avantatge si vols llegir el correu sense connexió o tens un sol
 | 4 | Professor 2 | Marca'l com a important |
 | 5 | Altres (`examen`, `moodle`) | Aplica l'etiqueta «institut» |
 
-
+<img width="1366" height="768" alt="Captura de pantalla 2026-11-26 200358" src="https://github.com/user-attachments/assets/9a26cfb0-35c0-40ee-bcc3-89e9b9b52f97" />
 
 
 
